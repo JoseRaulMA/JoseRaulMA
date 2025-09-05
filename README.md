@@ -48,12 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="105" src="https://i.imgur.com/YexOYjz.jpeg"  />
-</div>
-
 ###
 
 <h3 align="left">My Current Work Tools 🛠️⚙️🔧</h3>
