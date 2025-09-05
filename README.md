@@ -68,6 +68,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoseRaulMA/JoseRaulMA/output/snake.svg" alt="Snake animation" />
 
 ###
